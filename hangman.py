@@ -64,8 +64,7 @@ while pudlo<len(hangman.HANGMAN) | haslo.count("_")!=0: #gramy tak dlugo, az nie
             print("YOU LOOSE! Szukane słowo to:",cel )
             break
 
-    #elif zawiera==1:
-        #haslo[cel.find(guess)*2]=guess
+   
 
 #jest litera
     else:
